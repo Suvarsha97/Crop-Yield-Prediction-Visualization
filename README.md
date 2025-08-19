@@ -37,3 +37,4 @@ Random Forest provided the most reliable performance across datasets
 Effective visualization enabled clear interpretation of regional yield patterns
 
 📁 Dataset Source: Kaggle Crop Yield Dataset (includes rainfall, fertilizer, pesticide, and yield data across multiple states)
+
